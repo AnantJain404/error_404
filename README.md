@@ -1,2 +1,3 @@
 # error_404
-A simple program for a Book seller
+I am a student learning to code for fun!!
+Here I will share my codes
